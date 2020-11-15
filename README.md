@@ -1,4 +1,4 @@
-# [Pikadu](https://github.com/tttatttu/Pikadu)
+# [Pikadu](https://tttatttu.github.io/Pikadu)
 
 ## Версия 1.0.1
 
